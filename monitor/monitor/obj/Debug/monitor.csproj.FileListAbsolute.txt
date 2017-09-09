@@ -1,0 +1,6 @@
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\bin\Debug\monitor.exe.config
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\bin\Debug\monitor.exe
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\bin\Debug\monitor.pdb
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\obj\Debug\monitor.csprojResolveAssemblyReference.cache
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\obj\Debug\monitor.exe
+c:\users\dam\onedrive\documentos\visual studio 2017\Projects\monitor\monitor\obj\Debug\monitor.pdb
